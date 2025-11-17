@@ -1,0 +1,37 @@
+# =====================
+# GitHub Pages Site Config
+# =====================
+
+title: Luminati Blog
+description: "Official blog of Luminati Society"
+baseurl: "/join"      # your project repo path
+url: "https://luminati-society.github.io"
+
+# Theme
+theme: minima   # or 'chirpy' if you want mobile-friendly
+
+# Logo (optional)
+header_logo: /assets/images/logo.png
+
+# Navigation menu
+menu:
+  - title: Home
+    url: /
+  - title: WhatsApp
+    url: https://wa.me/your-number
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Author
+author:
+  name: Luminati Society
+
+# Blog settings
+paginate: 5     # posts per page
+paginate_path: "/page:num/"
+
+# Markdown
+markdown: kramdown
