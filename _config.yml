@@ -1,0 +1,5 @@
+title: Join Illuminati 
+description: "Welcome to The Illuminati Official Website"
+theme: minima
+plugins:
+  - jekyll-feed
