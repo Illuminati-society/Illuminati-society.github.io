@@ -5,7 +5,7 @@
 title: Luminati Blog
 description: "Official blog of Illuminati Society"
 baseurl: "/join"      # your project repo path
-url: "https://luminati-society.github.io"
+url: "https://illuminati-society.github.io"
 
 # Theme
 theme: minima   # or 'chirpy' if you want mobile-friendly
