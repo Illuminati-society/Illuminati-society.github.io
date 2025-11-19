@@ -2,9 +2,9 @@
 # GitHub Pages Site Config
 # =====================
 
-title: Luminati Blog
+title: Illuminati Blog
 description: "Official blog of Illuminati Society"
-baseurl: "/join"      # your project repo path
+baseurl: "/Illuminati-society"      # your project repo path
 url: "https://illuminati-society.github.io"
 
 # Theme
@@ -18,7 +18,7 @@ menu:
   - title: Home
     url: /
   - title: WhatsApp
-    url: https://wa.me/your-number
+    url: https://wa.me/+256772715852
 
 # Plugins
 plugins:
