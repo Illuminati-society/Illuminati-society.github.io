@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "ILLUMINATI SOCIETY IN UGANDA"
 date: 2025-11-17
 ---
 
