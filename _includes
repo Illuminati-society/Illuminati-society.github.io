@@ -1,5 +1,8 @@
-<!-- _includes/footer.html -->
-<footer class="site-footer">
-  <p>© 2025 ILLuminati Society. All rights reserved.</p>
-  <p>Official blog of Illuminati Society</p>
+<footer style="background-color:#111; color:#fff; text-align:center; padding:30px 20px; font-family:Arial, sans-serif; margin-top:50px;">
+  <p style="margin:5px 0;">© {{ 'now' | date: '%Y' }} Illuminati Society. All rights reserved.</p>
+  <p style="margin:5px 0;">Official Blog of the Illuminati Society</p>
+  <p style="margin:10px 0;">
+    <a href="{{ '/' | relative_url }}" style="color:#fff; text-decoration:none; margin:0 10px;">Home</a> | 
+    <a href="https://wa.me/+256772715852" style="color:#25D366; text-decoration:none; margin:0 10px;">WhatsApp</a>
+  </p>
 </footer>
