@@ -21,4 +21,4 @@ Click the link below to chat with us directly on WhatsApp:
 
 ---
 
-**Note:** Make sure your WhatsApp number is correct. This link will take visitors directly to your WhatsApp chat.
+**Note:**  This link will take you directly to WhatsApp chat.
