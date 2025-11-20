@@ -1,4 +1,17 @@
+/* 🔥 Animated Gradient Background */
 body {
-  background-color: #ff0000; /* change this to any color you want */
-  color: red; /* makes text readable on dark background */
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: linear-gradient(-45deg, #ff0000, #ff7f00, #ff00ff, #ff5500);
+  background-size: 400% 400%;
+  animation: gradientAnimation 12s ease infinite;
+  color: white;
+}
+
+/* Animation Motion */
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
