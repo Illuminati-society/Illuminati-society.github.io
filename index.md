@@ -15,7 +15,7 @@ Our mission is to create a network of like-minded individuals who value knowledg
 To join the Illuminati:
 
 1. Click the WhatsApp link below to start your official registration.
-2. Follow the instructions provided by our membership team.
+2. Follow the instructions provided by our membership Agent.
 3. Enjoy access to exclusive discussions, events, and resources within the society.
 
 [Join the Illuminati via WhatsApp](YOUR_WHATSAPP_LINK_HERE)
@@ -34,5 +34,3 @@ To join the Illuminati:
 **Note:** Only verified members gain full access. Ensure you follow the official process to avoid scams.
 
 ---
-
-*Remember:* The keyword **“Join Illuminati”** appears naturally in the **title, headings, first paragraph, and content**, which is perfect for SEO.
