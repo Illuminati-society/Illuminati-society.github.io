@@ -1,17 +1,17 @@
 /* Background */
 body {
   background-color: #f9f9f9; /* soft light gray */
-  color: #222222;            /* main text in dark gray */
+  color: #222222;            /* main text dark gray */
   font-family: 'Helvetica', Arial, sans-serif;
 }
 
-/* Content area / posts */
+/* Content boxes */
 .main-content, .post {
-  background-color: #ffffff; /* white box for content */
+  background-color: #ffffff;
   padding: 20px;
   margin: 20px auto;
-  border-radius: 12px;       /* rounded corners */
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* subtle shadow */
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   max-width: 900px;
 }
 
@@ -23,17 +23,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  color: #1a73e8; /* modern blue */
+  color: #1a73e8;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #0b47a1; /* darker blue on hover */
+  color: #0b47a1;
   text-decoration: underline;
 }
 
-/* Optional: paragraphs spacing */
+/* Paragraph spacing */
 p {
   line-height: 1.7;
   margin-bottom: 16px;
